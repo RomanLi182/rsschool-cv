@@ -1,1 +1,1 @@
-[GitHub](https://RomanLi182.github.io/rsschool-cv/cv)
+["Markdown & Git"](https://RomanLi182.github.io/rsschool-cv/cv)
